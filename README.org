@@ -1,0 +1,3 @@
+* Streetlamp
+
+Streetlamp is a control panel and manager for legacy LAMP websites.  None of us want to bother with them anymore, but sometimes you just can't get rid of them.  Streetlamp makes dealing with legacy "Apache, MySQL and PHP" websites on Linux a little more bearable.  As a bonus, Nginx and MariaDB are supported by default.
